@@ -1,0 +1,13 @@
+- { meta: "VIRAT_S_040000_00_000000_000036 events" }
+- { meta: "activity_walking 3 instances" }
+- { meta: "vehicle_moving 1 instances" }
+- { meta: "vehicle_turning_left 2 instances" }
+- { meta: "vehicle_turning_right 2 instances" }
+- { act: { act2: { vehicle_turning_left: 1.0 }, id2: 1, timespan: [{tsr0: [477, 553]}], src: truth, actors: [ {id1: 11 , timespan: [{tsr0: [477, 553 ]}]}] } }
+- { act: { act2: { vehicle_turning_left: 1.0 }, id2: 2, timespan: [{tsr0: [649, 713]}], src: truth, actors: [ {id1: 11 , timespan: [{tsr0: [649, 713 ]}]}] } }
+- { act: { act2: { vehicle_turning_right: 1.0 }, id2: 3, timespan: [{tsr0: [299, 347]}], src: truth, actors: [ {id1: 11 , timespan: [{tsr0: [299, 347 ]}]}] } }
+- { act: { act2: { vehicle_turning_right: 1.0 }, id2: 4, timespan: [{tsr0: [601, 633]}], src: truth, actors: [ {id1: 11 , timespan: [{tsr0: [601, 633 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 5, timespan: [{tsr0: [299, 739]}], src: truth, actors: [ {id1: 11 , timespan: [{tsr0: [299, 739 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 6, timespan: [{tsr0: [379, 768]}], src: truth, actors: [ {id1: 6 , timespan: [{tsr0: [379, 768 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 7, timespan: [{tsr0: [860, 1078]}], src: truth, actors: [ {id1: 2 , timespan: [{tsr0: [860, 1078 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 8, timespan: [{tsr0: [835, 1078]}], src: truth, actors: [ {id1: 1 , timespan: [{tsr0: [835, 1078 ]}]}] } }

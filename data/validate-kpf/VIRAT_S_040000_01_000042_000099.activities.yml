@@ -1,0 +1,17 @@
+- { meta: "VIRAT_S_040000_01_000042_000099 events" }
+- { meta: "activity_walking 3 instances" }
+- { meta: "vehicle_moving 5 instances" }
+- { meta: "vehicle_starting 2 instances" }
+- { meta: "vehicle_stopping 2 instances" }
+- { act: { act2: { vehicle_stopping: 1.0 }, id2: 1, timespan: [{tsr0: [589, 600]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [589, 600 ]}]}] } }
+- { act: { act2: { vehicle_stopping: 1.0 }, id2: 2, timespan: [{tsr0: [898, 911]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [898, 911 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 3, timespan: [{tsr0: [1198, 1407]}], src: truth, actors: [ {id1: 13 , timespan: [{tsr0: [1198, 1407 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 4, timespan: [{tsr0: [0, 290]}], src: truth, actors: [ {id1: 12 , timespan: [{tsr0: [0, 290 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 5, timespan: [{tsr0: [288, 600]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [288, 600 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 6, timespan: [{tsr0: [671, 911]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [671, 911 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 7, timespan: [{tsr0: [1005, 1381]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [1005, 1381 ]}]}] } }
+- { act: { act2: { vehicle_starting: 1.0 }, id2: 8, timespan: [{tsr0: [671, 710]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [671, 710 ]}]}] } }
+- { act: { act2: { vehicle_starting: 1.0 }, id2: 9, timespan: [{tsr0: [1005, 1024]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [1005, 1024 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 10, timespan: [{tsr0: [0, 249]}], src: truth, actors: [ {id1: 2 , timespan: [{tsr0: [0, 249 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 11, timespan: [{tsr0: [0, 111]}], src: truth, actors: [ {id1: 1 , timespan: [{tsr0: [0, 111 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 12, timespan: [{tsr0: [0, 626]}], src: truth, actors: [ {id1: 3 , timespan: [{tsr0: [0, 626 ]}]}] } }

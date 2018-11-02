@@ -1,0 +1,13 @@
+{
+  "Closing": {
+    "objectTypes": [
+      "person",
+      "vehicle"
+    ]
+  },
+  "Entering": {
+    "objectTypes": [
+      "person"
+    ]
+  }
+}

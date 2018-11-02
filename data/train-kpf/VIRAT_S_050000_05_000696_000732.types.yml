@@ -1,0 +1,53 @@
+- { meta: "VIRAT_S_050000_05_000696_000732 types"}
+- { meta: "Construction_Barrier 12 instances"}
+- { meta: "Construction_Vehicle 1 instances"}
+- { meta: "Parking_Meter 3 instances"}
+- { meta: "Person 6 instances"}
+- { meta: "Vehicle 25 instances"}
+- { types: { id1: 0 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 11 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 15 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 16 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 22 , cset3: { Construction_Vehicle: 1.0 } } }
+- { types: { id1: 23 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 24 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 25 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 26 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 27 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 28 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 29 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 33 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 34 , cset3: { Person: 1.0 } } }
+- { types: { id1: 35 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 36 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 38 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 40 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 41 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 45 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 46 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 48 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 50 , cset3: { Person: 1.0 } } }
+- { types: { id1: 51 , cset3: { Person: 1.0 } } }
+- { types: { id1: 52 , cset3: { Person: 1.0 } } }
+- { types: { id1: 53 , cset3: { Person: 1.0 } } }
+- { types: { id1: 54 , cset3: { Person: 1.0 } } }
+- { types: { id1: 79 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 80 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 81 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 82 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 85 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5002 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5003 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5004 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5005 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5006 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5008 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5009 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5010 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5011 , cset3: { Construction_Barrier: 1.0 } } }
+- { types: { id1: 5012 , cset3: { Parking_Meter: 1.0 } } }
+- { types: { id1: 5013 , cset3: { Parking_Meter: 1.0 } } }
+- { types: { id1: 5014 , cset3: { Parking_Meter: 1.0 } } }
+- { types: { id1: 5100 , cset3: { Construction_Barrier: 1.0 } } }

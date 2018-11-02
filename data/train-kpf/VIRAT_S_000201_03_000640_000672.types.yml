@@ -1,0 +1,44 @@
+- { meta: "VIRAT_S_000201_03_000640_000672 types"}
+- { meta: "Door 1 instances"}
+- { meta: "Dumpster 1 instances"}
+- { meta: "Parking_Meter 1 instances"}
+- { meta: "Person 5 instances"}
+- { meta: "Tree 1 instances"}
+- { meta: "Vehicle 28 instances"}
+- { types: { id1: 66 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 67 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 68 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 69 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 70 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 71 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 72 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 73 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 75 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 76 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 77 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 78 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 79 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 80 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 81 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 82 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 83 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 84 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 85 , cset3: { Person: 1.0 } } }
+- { types: { id1: 86 , cset3: { Person: 1.0 } } }
+- { types: { id1: 87 , cset3: { Person: 1.0 } } }
+- { types: { id1: 88 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 89 , cset3: { Person: 1.0 } } }
+- { types: { id1: 90 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 91 , cset3: { Person: 1.0 } } }
+- { types: { id1: 92 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 93 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 94 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 100 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 101 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 102 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 103 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 104 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Parking_Meter: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Dumpster: 1.0 } } }
+- { types: { id1: 5025 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5030 , cset3: { Door: 1.0 } } }

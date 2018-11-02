@@ -1,0 +1,46 @@
+- { meta: "VIRAT_S_040104_05_000939_001116 types"}
+- { meta: "Person 14 instances"}
+- { meta: "Prop 3 instances"}
+- { meta: "Push_Pulled_Object 2 instances"}
+- { meta: "Tree 10 instances"}
+- { meta: "Vehicle 11 instances"}
+- { types: { id1: 0 , cset3: { Person: 1.0 } } }
+- { types: { id1: 1 , cset3: { Person: 1.0 } } }
+- { types: { id1: 2 , cset3: { Person: 1.0 } } }
+- { types: { id1: 3 , cset3: { Person: 1.0 } } }
+- { types: { id1: 9 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 22 , cset3: { Person: 1.0 } } }
+- { types: { id1: 26 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 27 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 28 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 29 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 30 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 31 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 32 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 33 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 34 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 37 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 38 , cset3: { Push_Pulled_Object: 1.0 } } }
+- { types: { id1: 40 , cset3: { Person: 1.0 } } }
+- { types: { id1: 48 , cset3: { Person: 1.0 } } }
+- { types: { id1: 49 , cset3: { Person: 1.0 } } }
+- { types: { id1: 50 , cset3: { Person: 1.0 } } }
+- { types: { id1: 51 , cset3: { Person: 1.0 } } }
+- { types: { id1: 52 , cset3: { Person: 1.0 } } }
+- { types: { id1: 53 , cset3: { Person: 1.0 } } }
+- { types: { id1: 54 , cset3: { Person: 1.0 } } }
+- { types: { id1: 55 , cset3: { Person: 1.0 } } }
+- { types: { id1: 56 , cset3: { Push_Pulled_Object: 1.0 } } }
+- { types: { id1: 57 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 58 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 59 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5002 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5003 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5004 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5006 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5017 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5048 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5049 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5050 , cset3: { Tree: 1.0 } } }

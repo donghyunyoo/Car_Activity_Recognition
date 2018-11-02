@@ -1,0 +1,47 @@
+- { meta: "VIRAT_S_040003_02_000197_000552 types"}
+- { meta: "Articulated_Infrastructure 1 instances"}
+- { meta: "Person 22 instances"}
+- { meta: "Push_Pulled_Object 1 instances"}
+- { meta: "Tree 5 instances"}
+- { meta: "Vehicle 12 instances"}
+- { types: { id1: 1 , cset3: { Person: 1.0 } } }
+- { types: { id1: 2 , cset3: { Person: 1.0 } } }
+- { types: { id1: 3 , cset3: { Person: 1.0 } } }
+- { types: { id1: 4 , cset3: { Person: 1.0 } } }
+- { types: { id1: 5 , cset3: { Person: 1.0 } } }
+- { types: { id1: 8 , cset3: { Push_Pulled_Object: 1.0 } } }
+- { types: { id1: 100 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 101 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 102 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 103 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 104 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 108 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 109 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 110 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 111 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 112 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 113 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 114 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 115 , cset3: { Person: 1.0 } } }
+- { types: { id1: 116 , cset3: { Person: 1.0 } } }
+- { types: { id1: 117 , cset3: { Person: 1.0 } } }
+- { types: { id1: 118 , cset3: { Person: 1.0 } } }
+- { types: { id1: 119 , cset3: { Person: 1.0 } } }
+- { types: { id1: 120 , cset3: { Person: 1.0 } } }
+- { types: { id1: 121 , cset3: { Person: 1.0 } } }
+- { types: { id1: 122 , cset3: { Person: 1.0 } } }
+- { types: { id1: 123 , cset3: { Person: 1.0 } } }
+- { types: { id1: 124 , cset3: { Person: 1.0 } } }
+- { types: { id1: 125 , cset3: { Person: 1.0 } } }
+- { types: { id1: 126 , cset3: { Person: 1.0 } } }
+- { types: { id1: 127 , cset3: { Person: 1.0 } } }
+- { types: { id1: 128 , cset3: { Person: 1.0 } } }
+- { types: { id1: 129 , cset3: { Person: 1.0 } } }
+- { types: { id1: 130 , cset3: { Person: 1.0 } } }
+- { types: { id1: 131 , cset3: { Person: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5002 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5003 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5004 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5100 , cset3: { Articulated_Infrastructure: 1.0 } } }

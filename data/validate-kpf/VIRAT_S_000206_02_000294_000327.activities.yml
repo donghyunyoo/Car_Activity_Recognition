@@ -1,0 +1,44 @@
+- { meta: "VIRAT_S_000206_02_000294_000327 events" }
+- { meta: "Closing 1 instances" }
+- { meta: "Entering 1 instances" }
+- { meta: "Opening 1 instances" }
+- { meta: "Riding 1 instances" }
+- { meta: "activity_carrying 2 instances" }
+- { meta: "activity_crouching 1 instances" }
+- { meta: "activity_sitting 1 instances" }
+- { meta: "activity_standing 2 instances" }
+- { meta: "activity_walking 4 instances" }
+- { meta: "specialized_talking_phone 2 instances" }
+- { meta: "vehicle_moving 7 instances" }
+- { meta: "vehicle_starting 3 instances" }
+- { meta: "vehicle_stopping 2 instances" }
+- { meta: "vehicle_turning_left 1 instances" }
+- { act: { act2: { Riding: 1.0 } , id2: 1, timespan: [{tsr0: [69, 417]}], src: truth, actors: [{ id1: 33, timespan: [{tsr0: [69, 417]}]} , { id1: 3, timespan: [{tsr0: [69, 417]}]} ,  ]} } 
+- { act: { act2: { Entering: 1.0 } , id2: 2, timespan: [{tsr0: [602, 702]}], src: truth, actors: [{ id1: 5, timespan: [{tsr0: [602, 702]}]} , { id1: 0, timespan: [{tsr0: [602, 702]}]} ,  ]} } 
+- { act: { act2: { Opening: 1.0 } , id2: 3, timespan: [{tsr0: [604, 624]}], src: truth, actors: [{ id1: 5, timespan: [{tsr0: [604, 624]}]} , { id1: 0, timespan: [{tsr0: [604, 624]}]} ,  ]} } 
+- { act: { act2: { Closing: 1.0 } , id2: 4, timespan: [{tsr0: [738, 760]}], src: truth, actors: [{ id1: 5, timespan: [{tsr0: [738, 760]}]} , { id1: 0, timespan: [{tsr0: [738, 760]}]} ,  ]} } 
+- { act: { act2: { activity_sitting: 1.0 }, id2: 5, timespan: [{tsr0: [672, 785]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [672, 785 ]}]}] } }
+- { act: { act2: { activity_standing: 1.0 }, id2: 6, timespan: [{tsr0: [595, 626]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [595, 626 ]}]}] } }
+- { act: { act2: { activity_standing: 1.0 }, id2: 7, timespan: [{tsr0: [652, 671]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [652, 671 ]}]}] } }
+- { act: { act2: { activity_crouching: 1.0 }, id2: 8, timespan: [{tsr0: [627, 651]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [627, 651 ]}]}] } }
+- { act: { act2: { vehicle_stopping: 1.0 }, id2: 9, timespan: [{tsr0: [915, 956]}], src: truth, actors: [ {id1: 9 , timespan: [{tsr0: [915, 956 ]}]}] } }
+- { act: { act2: { vehicle_stopping: 1.0 }, id2: 10, timespan: [{tsr0: [786, 815]}], src: truth, actors: [ {id1: 8 , timespan: [{tsr0: [786, 815 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 11, timespan: [{tsr0: [0, 594]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [0, 594 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 12, timespan: [{tsr0: [0, 348]}], src: truth, actors: [ {id1: 1 , timespan: [{tsr0: [0, 348 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 13, timespan: [{tsr0: [74, 983]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [74, 983 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 14, timespan: [{tsr0: [0, 877]}], src: truth, actors: [ {id1: 6 , timespan: [{tsr0: [0, 877 ]}]}] } }
+- { act: { act2: { activity_carrying: 1.0 }, id2: 15, timespan: [{tsr0: [0, 348]}], src: truth, actors: [ {id1: 1 , timespan: [{tsr0: [0, 348 ]}]}] } }
+- { act: { act2: { activity_carrying: 1.0 }, id2: 16, timespan: [{tsr0: [74, 983]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [74, 983 ]}]}] } }
+- { act: { act2: { vehicle_turning_left: 1.0 }, id2: 17, timespan: [{tsr0: [942, 983]}], src: truth, actors: [ {id1: 5 , timespan: [{tsr0: [942, 983 ]}]}] } }
+- { act: { act2: { specialized_talking_phone: 1.0 }, id2: 18, timespan: [{tsr0: [0, 348]}], src: truth, actors: [ {id1: 1 , timespan: [{tsr0: [0, 348 ]}]}] } }
+- { act: { act2: { specialized_talking_phone: 1.0 }, id2: 19, timespan: [{tsr0: [74, 983]}], src: truth, actors: [ {id1: 4 , timespan: [{tsr0: [74, 983 ]}]}] } }
+- { act: { act2: { vehicle_starting: 1.0 }, id2: 20, timespan: [{tsr0: [855, 983]}], src: truth, actors: [ {id1: 5 , timespan: [{tsr0: [855, 983 ]}]}] } }
+- { act: { act2: { vehicle_starting: 1.0 }, id2: 21, timespan: [{tsr0: [957, 982]}], src: truth, actors: [ {id1: 9 , timespan: [{tsr0: [957, 982 ]}]}] } }
+- { act: { act2: { vehicle_starting: 1.0 }, id2: 22, timespan: [{tsr0: [816, 843]}], src: truth, actors: [ {id1: 8 , timespan: [{tsr0: [816, 843 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 23, timespan: [{tsr0: [459, 589]}], src: truth, actors: [ {id1: 7 , timespan: [{tsr0: [459, 589 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 24, timespan: [{tsr0: [855, 983]}], src: truth, actors: [ {id1: 5 , timespan: [{tsr0: [855, 983 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 25, timespan: [{tsr0: [69, 417]}], src: truth, actors: [ {id1: 3 , timespan: [{tsr0: [69, 417 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 26, timespan: [{tsr0: [779, 982]}], src: truth, actors: [ {id1: 9 , timespan: [{tsr0: [779, 982 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 27, timespan: [{tsr0: [871, 982]}], src: truth, actors: [ {id1: 10 , timespan: [{tsr0: [871, 982 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 28, timespan: [{tsr0: [0, 54]}], src: truth, actors: [ {id1: 2 , timespan: [{tsr0: [0, 54 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 29, timespan: [{tsr0: [661, 912]}], src: truth, actors: [ {id1: 8 , timespan: [{tsr0: [661, 912 ]}]}] } }

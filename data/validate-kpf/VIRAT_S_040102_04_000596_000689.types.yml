@@ -1,0 +1,37 @@
+- { meta: "VIRAT_S_040102_04_000596_000689 types"}
+- { meta: "Person 7 instances"}
+- { meta: "Prop 3 instances"}
+- { meta: "Push_Pulled_Object 1 instances"}
+- { meta: "Tree 10 instances"}
+- { meta: "Vehicle 10 instances"}
+- { types: { id1: 5 , cset3: { Person: 1.0 } } }
+- { types: { id1: 7 , cset3: { Person: 1.0 } } }
+- { types: { id1: 8 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 10 , cset3: { Person: 1.0 } } }
+- { types: { id1: 12 , cset3: { Person: 1.0 } } }
+- { types: { id1: 13 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 14 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 15 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 16 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 17 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 18 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 19 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 20 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 21 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 23 , cset3: { Person: 1.0 } } }
+- { types: { id1: 24 , cset3: { Person: 1.0 } } }
+- { types: { id1: 25 , cset3: { Person: 1.0 } } }
+- { types: { id1: 26 , cset3: { Push_Pulled_Object: 1.0 } } }
+- { types: { id1: 27 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 29 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 30 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5002 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5003 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5004 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5006 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5017 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5048 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5049 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5050 , cset3: { Tree: 1.0 } } }

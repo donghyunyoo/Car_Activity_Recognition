@@ -1,0 +1,53 @@
+- { meta: "VIRAT_S_000007 types"}
+- { meta: "Bike 1 instances"}
+- { meta: "Other 4 instances"}
+- { meta: "Person 28 instances"}
+- { meta: "Prop 7 instances"}
+- { meta: "Vehicle 7 instances"}
+- { types: { id1: 66 , cset3: { Person: 1.0 } } }
+- { types: { id1: 67 , cset3: { Person: 1.0 } } }
+- { types: { id1: 68 , cset3: { Person: 1.0 } } }
+- { types: { id1: 69 , cset3: { Person: 1.0 } } }
+- { types: { id1: 70 , cset3: { Person: 1.0 } } }
+- { types: { id1: 71 , cset3: { Person: 1.0 } } }
+- { types: { id1: 74 , cset3: { Person: 1.0 } } }
+- { types: { id1: 75 , cset3: { Person: 1.0 } } }
+- { types: { id1: 76 , cset3: { Person: 1.0 } } }
+- { types: { id1: 77 , cset3: { Person: 1.0 } } }
+- { types: { id1: 78 , cset3: { Person: 1.0 } } }
+- { types: { id1: 79 , cset3: { Person: 1.0 } } }
+- { types: { id1: 80 , cset3: { Person: 1.0 } } }
+- { types: { id1: 81 , cset3: { Person: 1.0 } } }
+- { types: { id1: 82 , cset3: { Person: 1.0 } } }
+- { types: { id1: 83 , cset3: { Bike: 1.0 } } }
+- { types: { id1: 84 , cset3: { Person: 1.0 } } }
+- { types: { id1: 88 , cset3: { Person: 1.0 } } }
+- { types: { id1: 90 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 91 , cset3: { Person: 1.0 } } }
+- { types: { id1: 92 , cset3: { Person: 1.0 } } }
+- { types: { id1: 93 , cset3: { Person: 1.0 } } }
+- { types: { id1: 94 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 95 , cset3: { Person: 1.0 } } }
+- { types: { id1: 96 , cset3: { Person: 1.0 } } }
+- { types: { id1: 97 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 98 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 99 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 100 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 110 , cset3: { Prop: 1.0 } } }
+- { types: { id1: 111 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 130 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 131 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 140 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 141 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 142 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 143 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 145 , cset3: { Person: 1.0 } } }
+- { types: { id1: 146 , cset3: { Person: 1.0 } } }
+- { types: { id1: 190 , cset3: { Person: 1.0 } } }
+- { types: { id1: 199 , cset3: { Person: 1.0 } } }
+- { types: { id1: 200 , cset3: { Person: 1.0 } } }
+- { types: { id1: 201 , cset3: { Person: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Other: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Other: 1.0 } } }
+- { types: { id1: 5002 , cset3: { Other: 1.0 } } }
+- { types: { id1: 5003 , cset3: { Other: 1.0 } } }

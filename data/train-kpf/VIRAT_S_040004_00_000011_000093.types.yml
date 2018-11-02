@@ -1,0 +1,15 @@
+- { meta: "VIRAT_S_040004_00_000011_000093 types"}
+- { meta: "Tree 5 instances"}
+- { meta: "Vehicle 7 instances"}
+- { types: { id1: 1 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 2 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 4 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 5 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 6 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 7 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 9 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5002 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5003 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5004 , cset3: { Tree: 1.0 } } }

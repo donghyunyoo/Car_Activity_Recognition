@@ -1,0 +1,20 @@
+- { meta: "VIRAT_S_040003_06_001441_001518 events" }
+- { meta: "Interacts 1 instances" }
+- { meta: "Misc 2 instances" }
+- { meta: "activity_crouching 1 instances" }
+- { meta: "activity_walking 5 instances" }
+- { meta: "vehicle_moving 1 instances" }
+- { meta: "vehicle_turning_left 1 instances" }
+- { meta: "vehicle_turning_right 1 instances" }
+- { act: { act2: { Interacts: 1.0 } , id2: 1, timespan: [{tsr0: [1760, 1876]}], src: truth, actors: [{ id1: 15, timespan: [{tsr0: [1760, 1876]}]} , { id1: 10, timespan: [{tsr0: [1760, 1876]}]} ,  ]} } 
+- { act: { act2: { Misc: 1.0 } , id2: 2, timespan: [{tsr0: [964, 1767]}], src: truth, actors: [{ id1: 10, timespan: [{tsr0: [964, 1767]}]} , { id1: 15, timespan: [{tsr0: [964, 1767]}]} ,  ]} } 
+- { act: { act2: { Misc: 1.0 } , id2: 3, timespan: [{tsr0: [1876, 2303]}], src: truth, actors: [{ id1: 15, timespan: [{tsr0: [1876, 2302]}]} , { id1: 10, timespan: [{tsr0: [1876, 2303]}]} ,  ]} } 
+- { act: { act2: { activity_walking: 1.0 }, id2: 4, timespan: [{tsr0: [356, 587]}], src: truth, actors: [ {id1: 1 , timespan: [{tsr0: [356, 587 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 5, timespan: [{tsr0: [964, 1747]}], src: truth, actors: [ {id1: 10 , timespan: [{tsr0: [964, 1747 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 6, timespan: [{tsr0: [1866, 2302]}], src: truth, actors: [ {id1: 10 , timespan: [{tsr0: [1866, 2302 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 7, timespan: [{tsr0: [789, 921]}], src: truth, actors: [ {id1: 11 , timespan: [{tsr0: [789, 921 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 8, timespan: [{tsr0: [184, 1983]}], src: truth, actors: [ {id1: 7 , timespan: [{tsr0: [184, 1983 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 9, timespan: [{tsr0: [285, 605]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [285, 605 ]}]}] } }
+- { act: { act2: { vehicle_turning_left: 1.0 }, id2: 10, timespan: [{tsr0: [423, 467]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [423, 467 ]}]}] } }
+- { act: { act2: { vehicle_turning_right: 1.0 }, id2: 11, timespan: [{tsr0: [285, 315]}], src: truth, actors: [ {id1: 0 , timespan: [{tsr0: [285, 315 ]}]}] } }
+- { act: { act2: { activity_crouching: 1.0 }, id2: 12, timespan: [{tsr0: [1748, 1865]}], src: truth, actors: [ {id1: 10 , timespan: [{tsr0: [1748, 1865 ]}]}] } }

@@ -1,0 +1,19 @@
+- { meta: "VIRAT_S_000200_00_000100_000171 types"}
+- { meta: "Door 1 instances"}
+- { meta: "Dumpster 1 instances"}
+- { meta: "Parking_Meter 1 instances"}
+- { meta: "Person 3 instances"}
+- { meta: "Tree 1 instances"}
+- { meta: "Vehicle 5 instances"}
+- { types: { id1: 0 , cset3: { Person: 1.0 } } }
+- { types: { id1: 1 , cset3: { Person: 1.0 } } }
+- { types: { id1: 2 , cset3: { Person: 1.0 } } }
+- { types: { id1: 3 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 4 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 5 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 6 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 7 , cset3: { Vehicle: 1.0 } } }
+- { types: { id1: 5000 , cset3: { Parking_Meter: 1.0 } } }
+- { types: { id1: 5001 , cset3: { Dumpster: 1.0 } } }
+- { types: { id1: 5025 , cset3: { Tree: 1.0 } } }
+- { types: { id1: 5030 , cset3: { Door: 1.0 } } }

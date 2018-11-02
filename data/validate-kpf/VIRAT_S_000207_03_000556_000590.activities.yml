@@ -1,0 +1,19 @@
+- { meta: "VIRAT_S_000207_03_000556_000590 events" }
+- { meta: "Entering 1 instances" }
+- { meta: "Opening 1 instances" }
+- { meta: "Riding 1 instances" }
+- { meta: "activity_standing 1 instances" }
+- { meta: "activity_walking 1 instances" }
+- { meta: "vehicle_moving 5 instances" }
+- { meta: "vehicle_starting 1 instances" }
+- { act: { act2: { Riding: 1.0 } , id2: 1, timespan: [{tsr0: [944, 998]}], src: truth, actors: [{ id1: 13, timespan: [{tsr0: [944, 998]}]} , { id1: 14, timespan: [{tsr0: [944, 998]}]} ,  ]} } 
+- { act: { act2: { Entering: 1.0 } , id2: 2, timespan: [{tsr0: [628, 676]}], src: truth, actors: [{ id1: 15, timespan: [{tsr0: [628, 676]}]} , { id1: 9, timespan: [{tsr0: [628, 676]}]} ,  ]} } 
+- { act: { act2: { Opening: 1.0 } , id2: 3, timespan: [{tsr0: [628, 660]}], src: truth, actors: [{ id1: 15, timespan: [{tsr0: [628, 660]}]} , { id1: 9, timespan: [{tsr0: [628, 660]}]} ,  ]} } 
+- { act: { act2: { vehicle_starting: 1.0 }, id2: 4, timespan: [{tsr0: [973, 1019]}], src: truth, actors: [ {id1: 9 , timespan: [{tsr0: [973, 1019 ]}]}] } }
+- { act: { act2: { activity_standing: 1.0 }, id2: 5, timespan: [{tsr0: [639, 676]}], src: truth, actors: [ {id1: 15 , timespan: [{tsr0: [639, 676 ]}]}] } }
+- { act: { act2: { activity_walking: 1.0 }, id2: 6, timespan: [{tsr0: [0, 638]}], src: truth, actors: [ {id1: 15 , timespan: [{tsr0: [0, 638 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 7, timespan: [{tsr0: [277, 414]}], src: truth, actors: [ {id1: 11 , timespan: [{tsr0: [277, 414 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 8, timespan: [{tsr0: [716, 852]}], src: truth, actors: [ {id1: 12 , timespan: [{tsr0: [716, 852 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 9, timespan: [{tsr0: [167, 446]}], src: truth, actors: [ {id1: 10 , timespan: [{tsr0: [167, 446 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 10, timespan: [{tsr0: [973, 1019]}], src: truth, actors: [ {id1: 9 , timespan: [{tsr0: [973, 1019 ]}]}] } }
+- { act: { act2: { vehicle_moving: 1.0 }, id2: 11, timespan: [{tsr0: [944, 1002]}], src: truth, actors: [ {id1: 14 , timespan: [{tsr0: [944, 1002 ]}]}] } }

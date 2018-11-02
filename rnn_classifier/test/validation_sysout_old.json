@@ -1,0 +1,3996 @@
+{
+    "activities": [
+        {
+            "presenceConf": 0.3607840753518618, 
+            "activityID": 16, 
+            "alertFrame": 915, 
+            "localization": {
+                "VIRAT_S_000207_02_000498_000530.mp4": {
+                    "915": 0, 
+                    "851": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.06016919828419175, 
+            "activityID": 17, 
+            "alertFrame": 942, 
+            "localization": {
+                "VIRAT_S_000207_02_000498_000530.mp4": {
+                    "915": 1, 
+                    "942": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.06097197994589806, 
+            "activityID": 30, 
+            "alertFrame": 598, 
+            "localization": {
+                "VIRAT_S_000204_07_001577_001611.mp4": {
+                    "598": 0, 
+                    "574": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.06386436025301616, 
+            "activityID": 36, 
+            "alertFrame": 646, 
+            "localization": {
+                "VIRAT_S_000204_07_001577_001611.mp4": {
+                    "632": 1, 
+                    "646": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.031845739010230516, 
+            "activityID": 88, 
+            "alertFrame": 1020, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "892": 1, 
+                    "1020": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.5143500090752905, 
+            "activityID": 89, 
+            "alertFrame": 1554, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "1407": 1, 
+                    "1554": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.01576021526541029, 
+            "activityID": 104, 
+            "alertFrame": 1827, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "1814": 1, 
+                    "1827": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.12570982787977247, 
+            "activityID": 105, 
+            "alertFrame": 1883, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "1816": 1, 
+                    "1883": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.17040647162745395, 
+            "activityID": 107, 
+            "alertFrame": 1914, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "1891": 1, 
+                    "1914": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.20719407064219317, 
+            "activityID": 118, 
+            "alertFrame": 2857, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "2846": 1, 
+                    "2857": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.12665538437431678, 
+            "activityID": 139, 
+            "alertFrame": 5237, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "5110": 1, 
+                    "5237": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.10280322134494782, 
+            "activityID": 140, 
+            "alertFrame": 5386, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "5386": 0, 
+                    "5372": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.061106711626052856, 
+            "activityID": 145, 
+            "alertFrame": 5563, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "5554": 1, 
+                    "5563": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.26853431362593383, 
+            "activityID": 146, 
+            "alertFrame": 5799, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "5686": 1, 
+                    "5799": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07074421150609851, 
+            "activityID": 147, 
+            "alertFrame": 5737, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "5698": 1, 
+                    "5737": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.20521387396545349, 
+            "activityID": 150, 
+            "alertFrame": 5969, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "5969": 0, 
+                    "5654": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.0916207255795598, 
+            "activityID": 151, 
+            "alertFrame": 5905, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "5878": 1, 
+                    "5905": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.7297176017375764, 
+            "activityID": 154, 
+            "alertFrame": 6091, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "6091": 0, 
+                    "5925": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3400899481330369, 
+            "activityID": 162, 
+            "alertFrame": 494, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "494": 0, 
+                    "125": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.21657486109890872, 
+            "activityID": 163, 
+            "alertFrame": 530, 
+            "localization": {
+                "VIRAT_S_000201_01_000384_000589.mp4": {
+                    "459": 1, 
+                    "530": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.5726046602136081, 
+            "activityID": 170, 
+            "alertFrame": 476, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "283": 1, 
+                    "476": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3199038079642839, 
+            "activityID": 174, 
+            "alertFrame": 732, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "732": 0, 
+                    "181": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.17048550945662316, 
+            "activityID": 175, 
+            "alertFrame": 846, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "322": 1, 
+                    "846": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.14172822995870202, 
+            "activityID": 185, 
+            "alertFrame": 848, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "633": 1, 
+                    "848": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4641948313146204, 
+            "activityID": 192, 
+            "alertFrame": 1193, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "1051": 1, 
+                    "1193": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.435284460623597, 
+            "activityID": 202, 
+            "alertFrame": 1231, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "1231": 0, 
+                    "157": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.06899369106842922, 
+            "activityID": 203, 
+            "alertFrame": 933, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "933": 0, 
+                    "908": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.08076237804359859, 
+            "activityID": 206, 
+            "alertFrame": 1391, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "1391": 0, 
+                    "1383": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.4557432451887251, 
+            "activityID": 222, 
+            "alertFrame": 286, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "10": 1, 
+                    "286": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.28033870467974703, 
+            "activityID": 225, 
+            "alertFrame": 1609, 
+            "localization": {
+                "VIRAT_S_000206_08_001618_001712.mp4": {
+                    "1609": 0, 
+                    "1451": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.015809897865567888, 
+            "activityID": 237, 
+            "alertFrame": 82, 
+            "localization": {
+                "VIRAT_S_000206_02_000294_000327.mp4": {
+                    "82": 0, 
+                    "76": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.11510771926906374, 
+            "activityID": 245, 
+            "alertFrame": 226, 
+            "localization": {
+                "VIRAT_S_000206_02_000294_000327.mp4": {
+                    "226": 0, 
+                    "218": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.023089425265789033, 
+            "activityID": 275, 
+            "alertFrame": 671, 
+            "localization": {
+                "VIRAT_S_000206_02_000294_000327.mp4": {
+                    "662": 1, 
+                    "671": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.2872089617855989, 
+            "activityID": 292, 
+            "alertFrame": 281, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "281": 0, 
+                    "125": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3220319127043088, 
+            "activityID": 303, 
+            "alertFrame": 553, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "553": 0, 
+                    "545": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.24308685825339385, 
+            "activityID": 305, 
+            "alertFrame": 580, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "441": 1, 
+                    "580": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.11103954426944256, 
+            "activityID": 306, 
+            "alertFrame": 614, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "595": 1, 
+                    "614": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.18542902916669846, 
+            "activityID": 307, 
+            "alertFrame": 621, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "621": 0, 
+                    "615": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.09438216963257545, 
+            "activityID": 312, 
+            "alertFrame": 687, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "610": 1, 
+                    "687": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.0846052805254282, 
+            "activityID": 318, 
+            "alertFrame": 774, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "774": 0, 
+                    "654": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.14370983028784395, 
+            "activityID": 319, 
+            "alertFrame": 949, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "750": 1, 
+                    "949": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.32358685820952227, 
+            "activityID": 324, 
+            "alertFrame": 919, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "833": 1, 
+                    "919": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.04069106206297875, 
+            "activityID": 326, 
+            "alertFrame": 905, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "896": 1, 
+                    "905": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.01776365175222357, 
+            "activityID": 327, 
+            "alertFrame": 975, 
+            "localization": {
+                "VIRAT_S_000206_00_000025_000058.mp4": {
+                    "928": 1, 
+                    "975": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.3146832769921234, 
+            "activityID": 328, 
+            "alertFrame": 290, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "180": 1, 
+                    "290": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.39571501448517665, 
+            "activityID": 329, 
+            "alertFrame": 417, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "417": 0, 
+                    "290": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.15820627617386152, 
+            "activityID": 331, 
+            "alertFrame": 1414, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "1414": 0, 
+                    "1362": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4526812933134229, 
+            "activityID": 333, 
+            "alertFrame": 2203, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "2203": 0, 
+                    "2115": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1566665443319223, 
+            "activityID": 340, 
+            "alertFrame": 3795, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "3795": 0, 
+                    "3075": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3513195498854713, 
+            "activityID": 341, 
+            "alertFrame": 1556, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "1444": 1, 
+                    "1556": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.05286623182750884, 
+            "activityID": 343, 
+            "alertFrame": 4041, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "4041": 0, 
+                    "4021": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.23592705001845163, 
+            "activityID": 344, 
+            "alertFrame": 4419, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "4251": 1, 
+                    "4419": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.14931758818189794, 
+            "activityID": 345, 
+            "alertFrame": 4431, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "4189": 1, 
+                    "4431": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.32576970318588644, 
+            "activityID": 349, 
+            "alertFrame": 5270, 
+            "localization": {
+                "VIRAT_S_040100_06_000767_000988.mp4": {
+                    "5162": 1, 
+                    "5270": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.29233678739245345, 
+            "activityID": 353, 
+            "alertFrame": 461, 
+            "localization": {
+                "VIRAT_S_040102_07_000916_000983.mp4": {
+                    "461": 0, 
+                    "257": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.31464023515582085, 
+            "activityID": 363, 
+            "alertFrame": 260, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "260": 0, 
+                    "251": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1360506139257375, 
+            "activityID": 377, 
+            "alertFrame": 1066, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "1033": 1, 
+                    "1066": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.04908779125522684, 
+            "activityID": 380, 
+            "alertFrame": 1141, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "1141": 0, 
+                    "1115": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.12526826938939473, 
+            "activityID": 395, 
+            "alertFrame": 2101, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "2101": 0, 
+                    "2039": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.05031027748179035, 
+            "activityID": 396, 
+            "alertFrame": 2261, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "2261": 0, 
+                    "2143": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07222287885167382, 
+            "activityID": 397, 
+            "alertFrame": 2196, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "2142": 1, 
+                    "2196": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.09860529419448641, 
+            "activityID": 408, 
+            "alertFrame": 2456, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "2448": 1, 
+                    "2456": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.02538137510418892, 
+            "activityID": 409, 
+            "alertFrame": 2443, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "2443": 0, 
+                    "2408": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.19426147852625167, 
+            "activityID": 418, 
+            "alertFrame": 2969, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "2969": 0, 
+                    "2963": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.03519357858519805, 
+            "activityID": 420, 
+            "alertFrame": 3377, 
+            "localization": {
+                "VIRAT_S_000205_02_000409_000566.mp4": {
+                    "3377": 0, 
+                    "3321": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.24456870828459903, 
+            "activityID": 448, 
+            "alertFrame": 723, 
+            "localization": {
+                "VIRAT_S_040005_08_001225_001276.mp4": {
+                    "642": 1, 
+                    "723": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.32788518282274404, 
+            "activityID": 449, 
+            "alertFrame": 768, 
+            "localization": {
+                "VIRAT_S_040005_08_001225_001276.mp4": {
+                    "768": 0, 
+                    "709": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.17223980747736417, 
+            "activityID": 450, 
+            "alertFrame": 796, 
+            "localization": {
+                "VIRAT_S_040104_07_001268_001348.mp4": {
+                    "667": 1, 
+                    "796": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.483771298289299, 
+            "activityID": 452, 
+            "alertFrame": 2198, 
+            "localization": {
+                "VIRAT_S_040104_07_001268_001348.mp4": {
+                    "2198": 0, 
+                    "2074": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3611887825798555, 
+            "activityID": 460, 
+            "alertFrame": 1440, 
+            "localization": {
+                "VIRAT_S_040103_06_000836_000909.mp4": {
+                    "699": 1, 
+                    "1440": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.16831792646338578, 
+            "activityID": 461, 
+            "alertFrame": 531, 
+            "localization": {
+                "VIRAT_S_040103_06_000836_000909.mp4": {
+                    "261": 1, 
+                    "531": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.2396901862716282, 
+            "activityID": 462, 
+            "alertFrame": 2031, 
+            "localization": {
+                "VIRAT_S_040100_08_001103_001181.mp4": {
+                    "1850": 1, 
+                    "2031": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1622310691770721, 
+            "activityID": 463, 
+            "alertFrame": 1687, 
+            "localization": {
+                "VIRAT_S_040100_08_001103_001181.mp4": {
+                    "1500": 1, 
+                    "1687": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.2416284279248049, 
+            "activityID": 465, 
+            "alertFrame": 298, 
+            "localization": {
+                "VIRAT_S_040100_08_001103_001181.mp4": {
+                    "213": 1, 
+                    "298": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.0420258254885222, 
+            "activityID": 476, 
+            "alertFrame": 197, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "197": 0, 
+                    "66": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.04003138038313995, 
+            "activityID": 477, 
+            "alertFrame": 224, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "224": 0, 
+                    "107": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1674219326634935, 
+            "activityID": 480, 
+            "alertFrame": 571, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "423": 1, 
+                    "571": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.15146471689382712, 
+            "activityID": 481, 
+            "alertFrame": 571, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "405": 1, 
+                    "571": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.03291248447365231, 
+            "activityID": 488, 
+            "alertFrame": 316, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "308": 1, 
+                    "316": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.02350318431854248, 
+            "activityID": 489, 
+            "alertFrame": 313, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "313": 0, 
+                    "306": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.0659339490144149, 
+            "activityID": 500, 
+            "alertFrame": 639, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "525": 1, 
+                    "639": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.4288575434692058, 
+            "activityID": 501, 
+            "alertFrame": 719, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "719": 0, 
+                    "516": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.14612713580330214, 
+            "activityID": 502, 
+            "alertFrame": 404, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "404": 0, 
+                    "6": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3424958923831582, 
+            "activityID": 503, 
+            "alertFrame": 404, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "404": 0, 
+                    "365": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.06064057664251795, 
+            "activityID": 504, 
+            "alertFrame": 498, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "448": 1, 
+                    "498": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.10040927595562404, 
+            "activityID": 519, 
+            "alertFrame": 733, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "733": 0, 
+                    "725": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.46895698764744925, 
+            "activityID": 520, 
+            "alertFrame": 757, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "741": 1, 
+                    "757": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3089041295258895, 
+            "activityID": 523, 
+            "alertFrame": 854, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "854": 0, 
+                    "763": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.325204798579216, 
+            "activityID": 528, 
+            "alertFrame": 1015, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1015": 0, 
+                    "986": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.03961059004068375, 
+            "activityID": 537, 
+            "alertFrame": 1167, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1167": 0, 
+                    "1158": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.020527756919986324, 
+            "activityID": 575, 
+            "alertFrame": 1444, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1444": 0, 
+                    "1407": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.082776696421206, 
+            "activityID": 578, 
+            "alertFrame": 1696, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1689": 1, 
+                    "1696": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.5739490102444377, 
+            "activityID": 579, 
+            "alertFrame": 1706, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1700": 1, 
+                    "1706": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.23431899890420027, 
+            "activityID": 584, 
+            "alertFrame": 1884, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1757": 1, 
+                    "1884": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.02640154234000615, 
+            "activityID": 585, 
+            "alertFrame": 1839, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1839": 0, 
+                    "1770": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1558889802545309, 
+            "activityID": 605, 
+            "alertFrame": 1471, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "1464": 1, 
+                    "1471": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.29741066225149015, 
+            "activityID": 618, 
+            "alertFrame": 748, 
+            "localization": {
+                "VIRAT_S_000204_09_001768_001849.mp4": {
+                    "748": 0, 
+                    "722": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.15457524731755257, 
+            "activityID": 635, 
+            "alertFrame": 2595, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "2595": 0, 
+                    "2584": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.23452289731792322, 
+            "activityID": 638, 
+            "alertFrame": 4098, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "4098": 0, 
+                    "3918": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.5003344379875758, 
+            "activityID": 639, 
+            "alertFrame": 411, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "266": 1, 
+                    "411": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4677598648307266, 
+            "activityID": 640, 
+            "alertFrame": 6822, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "6822": 0, 
+                    "6530": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.6189033940961931, 
+            "activityID": 641, 
+            "alertFrame": 4794, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "4794": 0, 
+                    "4682": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.26909885521409876, 
+            "activityID": 642, 
+            "alertFrame": 7300, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "7300": 0, 
+                    "6711": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.03324036739374462, 
+            "activityID": 643, 
+            "alertFrame": 7196, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "7102": 1, 
+                    "7196": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.2305964779022128, 
+            "activityID": 644, 
+            "alertFrame": 7793, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "7793": 0, 
+                    "7751": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07659140058926174, 
+            "activityID": 647, 
+            "alertFrame": 9604, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "9570": 1, 
+                    "9604": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.2263360810753556, 
+            "activityID": 648, 
+            "alertFrame": 10169, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "10169": 0, 
+                    "9522": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.020545342622639295, 
+            "activityID": 649, 
+            "alertFrame": 10085, 
+            "localization": {
+                "VIRAT_S_040100_09_001186_001533.mp4": {
+                    "9932": 1, 
+                    "10085": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.025531248431907943, 
+            "activityID": 654, 
+            "alertFrame": 711, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "639": 1, 
+                    "711": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.09962878381337012, 
+            "activityID": 659, 
+            "alertFrame": 1811, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "1373": 1, 
+                    "1811": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.10768070643678068, 
+            "activityID": 660, 
+            "alertFrame": 1374, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "1374": 0, 
+                    "1001": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2837662785693451, 
+            "activityID": 661, 
+            "alertFrame": 1969, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "1969": 0, 
+                    "1835": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.31612471832734784, 
+            "activityID": 663, 
+            "alertFrame": 2046, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "2046": 0, 
+                    "1842": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1552497950750728, 
+            "activityID": 666, 
+            "alertFrame": 2292, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "2292": 0, 
+                    "2250": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.08107843906396911, 
+            "activityID": 667, 
+            "alertFrame": 2286, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "2245": 1, 
+                    "2286": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.04616744024679065, 
+            "activityID": 668, 
+            "alertFrame": 2370, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "2339": 1, 
+                    "2370": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.05576800955459475, 
+            "activityID": 671, 
+            "alertFrame": 2445, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "2406": 1, 
+                    "2445": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.26831731921018553, 
+            "activityID": 673, 
+            "alertFrame": 2989, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "2989": 0, 
+                    "2775": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.25657705579151985, 
+            "activityID": 680, 
+            "alertFrame": 6594, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "6594": 0, 
+                    "6052": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07889051528999934, 
+            "activityID": 684, 
+            "alertFrame": 7125, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "7052": 1, 
+                    "7125": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1617528300419032, 
+            "activityID": 694, 
+            "alertFrame": 8059, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "8059": 0, 
+                    "7953": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2882924284785986, 
+            "activityID": 695, 
+            "alertFrame": 8360, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "8360": 0, 
+                    "8309": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.29248699045607024, 
+            "activityID": 696, 
+            "alertFrame": 8696, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "8696": 0, 
+                    "8417": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2859819586738013, 
+            "activityID": 697, 
+            "alertFrame": 7676, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "7676": 0, 
+                    "7421": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18362352242454505, 
+            "activityID": 698, 
+            "alertFrame": 9915, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "9838": 1, 
+                    "9915": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.15625684198154055, 
+            "activityID": 699, 
+            "alertFrame": 10121, 
+            "localization": {
+                "VIRAT_S_040003_02_000197_000552.mp4": {
+                    "10121": 0, 
+                    "9846": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.17043882192469628, 
+            "activityID": 756, 
+            "alertFrame": 3267, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "2736": 1, 
+                    "3267": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.13802879479092856, 
+            "activityID": 757, 
+            "alertFrame": 3138, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "2899": 1, 
+                    "3138": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.09713172708658406, 
+            "activityID": 760, 
+            "alertFrame": 5606, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "5606": 0, 
+                    "5059": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.42774825904052705, 
+            "activityID": 761, 
+            "alertFrame": 2029, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "1902": 1, 
+                    "2029": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.5110285760407957, 
+            "activityID": 764, 
+            "alertFrame": 7709, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "7326": 1, 
+                    "7709": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.22498920636580272, 
+            "activityID": 765, 
+            "alertFrame": 4600, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "4600": 0, 
+                    "4533": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.3249174692567618, 
+            "activityID": 768, 
+            "alertFrame": 11716, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "11716": 0, 
+                    "10641": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.12520873632109675, 
+            "activityID": 770, 
+            "alertFrame": 11866, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "11305": 1, 
+                    "11866": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.11448798707396689, 
+            "activityID": 771, 
+            "alertFrame": 9444, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "9444": 0, 
+                    "9146": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.11427427279586727, 
+            "activityID": 774, 
+            "alertFrame": 16441, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "15924": 1, 
+                    "16441": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.4447883643077675, 
+            "activityID": 775, 
+            "alertFrame": 14145, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "14145": 0, 
+                    "13977": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.3010508556528346, 
+            "activityID": 776, 
+            "alertFrame": 16959, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "16959": 0, 
+                    "16202": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1884385057621532, 
+            "activityID": 778, 
+            "alertFrame": 16999, 
+            "localization": {
+                "VIRAT_S_000007.mp4": {
+                    "16964": 1, 
+                    "16999": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.15567224383798997, 
+            "activityID": 798, 
+            "alertFrame": 639, 
+            "localization": {
+                "VIRAT_S_040000_01_000042_000099.mp4": {
+                    "506": 1, 
+                    "639": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.17993239773672887, 
+            "activityID": 799, 
+            "alertFrame": 850, 
+            "localization": {
+                "VIRAT_S_040000_01_000042_000099.mp4": {
+                    "850": 0, 
+                    "503": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.09046020476441634, 
+            "activityID": 801, 
+            "alertFrame": 1368, 
+            "localization": {
+                "VIRAT_S_040100_05_000696_000762.mp4": {
+                    "1350": 1, 
+                    "1368": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.34972197342602934, 
+            "activityID": 804, 
+            "alertFrame": 1772, 
+            "localization": {
+                "VIRAT_S_040100_05_000696_000762.mp4": {
+                    "1651": 1, 
+                    "1772": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.6512556570497426, 
+            "activityID": 805, 
+            "alertFrame": 1781, 
+            "localization": {
+                "VIRAT_S_040100_05_000696_000762.mp4": {
+                    "1781": 0, 
+                    "1771": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.3637697216566829, 
+            "activityID": 812, 
+            "alertFrame": 2572, 
+            "localization": {
+                "VIRAT_S_040005_06_000886_001016.mp4": {
+                    "2572": 0, 
+                    "2153": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.45583726263472013, 
+            "activityID": 813, 
+            "alertFrame": 2998, 
+            "localization": {
+                "VIRAT_S_040005_06_000886_001016.mp4": {
+                    "2929": 1, 
+                    "2998": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.34257980146177924, 
+            "activityID": 814, 
+            "alertFrame": 3389, 
+            "localization": {
+                "VIRAT_S_040005_06_000886_001016.mp4": {
+                    "3389": 0, 
+                    "2885": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.13395124630409505, 
+            "activityID": 815, 
+            "alertFrame": 557, 
+            "localization": {
+                "VIRAT_S_040005_06_000886_001016.mp4": {
+                    "335": 1, 
+                    "557": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.052728571825557284, 
+            "activityID": 816, 
+            "alertFrame": 771, 
+            "localization": {
+                "VIRAT_S_000008.mp4": {
+                    "763": 1, 
+                    "771": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.174952053772571, 
+            "activityID": 820, 
+            "alertFrame": 3587, 
+            "localization": {
+                "VIRAT_S_000008.mp4": {
+                    "2707": 1, 
+                    "3587": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.33994719825493985, 
+            "activityID": 821, 
+            "alertFrame": 465, 
+            "localization": {
+                "VIRAT_S_000008.mp4": {
+                    "465": 0, 
+                    "310": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.31434830400043456, 
+            "activityID": 826, 
+            "alertFrame": 4207, 
+            "localization": {
+                "VIRAT_S_000008.mp4": {
+                    "3395": 1, 
+                    "4207": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.32087319949641824, 
+            "activityID": 836, 
+            "alertFrame": 1666, 
+            "localization": {
+                "VIRAT_S_040100_04_000626_000689.mp4": {
+                    "1666": 0, 
+                    "1651": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2257453082677196, 
+            "activityID": 837, 
+            "alertFrame": 445, 
+            "localization": {
+                "VIRAT_S_040100_04_000626_000689.mp4": {
+                    "429": 1, 
+                    "445": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.12294760133538928, 
+            "activityID": 853, 
+            "alertFrame": 150, 
+            "localization": {
+                "VIRAT_S_000206_01_000148_000184.mp4": {
+                    "150": 0, 
+                    "144": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.13501529196898143, 
+            "activityID": 872, 
+            "alertFrame": 666, 
+            "localization": {
+                "VIRAT_S_000206_01_000148_000184.mp4": {
+                    "666": 0, 
+                    "652": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1702490492230829, 
+            "activityID": 892, 
+            "alertFrame": 402, 
+            "localization": {
+                "VIRAT_S_000206_01_000148_000184.mp4": {
+                    "335": 1, 
+                    "402": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.31885438939217237, 
+            "activityID": 896, 
+            "alertFrame": 1821, 
+            "localization": {
+                "VIRAT_S_040003_01_000083_000193.mp4": {
+                    "1240": 1, 
+                    "1821": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.26535238752949913, 
+            "activityID": 897, 
+            "alertFrame": 563, 
+            "localization": {
+                "VIRAT_S_040003_01_000083_000193.mp4": {
+                    "563": 0, 
+                    "299": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18037400577889115, 
+            "activityID": 898, 
+            "alertFrame": 2623, 
+            "localization": {
+                "VIRAT_S_040003_01_000083_000193.mp4": {
+                    "2623": 0, 
+                    "2563": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.26083574411801963, 
+            "activityID": 899, 
+            "alertFrame": 2788, 
+            "localization": {
+                "VIRAT_S_040003_01_000083_000193.mp4": {
+                    "2558": 1, 
+                    "2788": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.02445480674505234, 
+            "activityID": 901, 
+            "alertFrame": 61, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "32": 1, 
+                    "61": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.12339442138347709, 
+            "activityID": 904, 
+            "alertFrame": 1588, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "1588": 0, 
+                    "1475": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.013155256398022175, 
+            "activityID": 910, 
+            "alertFrame": 2357, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "2350": 1, 
+                    "2357": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07431716988040082, 
+            "activityID": 911, 
+            "alertFrame": 2474, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "2474": 0, 
+                    "2296": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.07737825959920883, 
+            "activityID": 912, 
+            "alertFrame": 2499, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "2499": 0, 
+                    "2490": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.025335607047264393, 
+            "activityID": 913, 
+            "alertFrame": 2499, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "2499": 0, 
+                    "2487": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18240662606862876, 
+            "activityID": 922, 
+            "alertFrame": 3423, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "3423": 0, 
+                    "3411": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.09616627931594848, 
+            "activityID": 931, 
+            "alertFrame": 5054, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "5054": 0, 
+                    "5005": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.29756885207720307, 
+            "activityID": 934, 
+            "alertFrame": 5237, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "4841": 1, 
+                    "5237": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.47599089260284716, 
+            "activityID": 935, 
+            "alertFrame": 5267, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "5216": 1, 
+                    "5267": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.12189888209104538, 
+            "activityID": 993, 
+            "alertFrame": 9739, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "9739": 0, 
+                    "9732": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.47933724928985944, 
+            "activityID": 999, 
+            "alertFrame": 9781, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "9738": 1, 
+                    "9781": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.03950031784673532, 
+            "activityID": 1026, 
+            "alertFrame": 5317, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "5300": 1, 
+                    "5317": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.060086292384023014, 
+            "activityID": 1028, 
+            "alertFrame": 5803, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "5803": 0, 
+                    "5628": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07056538704117495, 
+            "activityID": 1029, 
+            "alertFrame": 5769, 
+            "localization": {
+                "VIRAT_S_000201_00_000018_000380.mp4": {
+                    "5658": 1, 
+                    "5769": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18900116497817904, 
+            "activityID": 1030, 
+            "alertFrame": 1804, 
+            "localization": {
+                "VIRAT_S_040003_00_000000_000072.mp4": {
+                    "1804": 0, 
+                    "1181": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2293221466113466, 
+            "activityID": 1031, 
+            "alertFrame": 407, 
+            "localization": {
+                "VIRAT_S_040003_00_000000_000072.mp4": {
+                    "407": 0, 
+                    "121": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.08009646620069232, 
+            "activityID": 1038, 
+            "alertFrame": 394, 
+            "localization": {
+                "VIRAT_S_000205_05_001092_001124.mp4": {
+                    "388": 1, 
+                    "394": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.29217401129149256, 
+            "activityID": 1066, 
+            "alertFrame": 957, 
+            "localization": {
+                "VIRAT_S_000205_05_001092_001124.mp4": {
+                    "874": 1, 
+                    "957": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.35176522493154017, 
+            "activityID": 1082, 
+            "alertFrame": 1336, 
+            "localization": {
+                "VIRAT_S_000205_03_000860_000922.mp4": {
+                    "1336": 0, 
+                    "1194": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.23792007263840698, 
+            "activityID": 1130, 
+            "alertFrame": 1601, 
+            "localization": {
+                "VIRAT_S_040103_01_000132_000195.mp4": {
+                    "1397": 1, 
+                    "1601": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1346166422512351, 
+            "activityID": 1131, 
+            "alertFrame": 274, 
+            "localization": {
+                "VIRAT_S_040103_01_000132_000195.mp4": {
+                    "274": 0, 
+                    "156": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.062080010771751404, 
+            "activityID": 1147, 
+            "alertFrame": 587, 
+            "localization": {
+                "VIRAT_S_000201_02_000590_000623.mp4": {
+                    "587": 0, 
+                    "570": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.24681061011601668, 
+            "activityID": 1154, 
+            "alertFrame": 980, 
+            "localization": {
+                "VIRAT_S_000201_02_000590_000623.mp4": {
+                    "980": 0, 
+                    "615": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3019425579243236, 
+            "activityID": 1158, 
+            "alertFrame": 1530, 
+            "localization": {
+                "VIRAT_S_040102_06_000849_000908.mp4": {
+                    "1522": 1, 
+                    "1530": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.182139343685574, 
+            "activityID": 1159, 
+            "alertFrame": 1014, 
+            "localization": {
+                "VIRAT_S_040102_06_000849_000908.mp4": {
+                    "1014": 0, 
+                    "1006": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.10328426620652599, 
+            "activityID": 1167, 
+            "alertFrame": 38, 
+            "localization": {
+                "VIRAT_S_050000_06_000908_000970.mp4": {
+                    "8": 1, 
+                    "38": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.07675190241290973, 
+            "activityID": 1187, 
+            "alertFrame": 490, 
+            "localization": {
+                "VIRAT_S_050000_06_000908_000970.mp4": {
+                    "478": 1, 
+                    "490": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.12624651028050315, 
+            "activityID": 1199, 
+            "alertFrame": 888, 
+            "localization": {
+                "VIRAT_S_050000_06_000908_000970.mp4": {
+                    "888": 0, 
+                    "871": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.06022931546983072, 
+            "activityID": 1213, 
+            "alertFrame": 1390, 
+            "localization": {
+                "VIRAT_S_050000_06_000908_000970.mp4": {
+                    "1390": 0, 
+                    "1332": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.0645170621573925, 
+            "activityID": 1215, 
+            "alertFrame": 1407, 
+            "localization": {
+                "VIRAT_S_050000_06_000908_000970.mp4": {
+                    "1407": 0, 
+                    "1398": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.213715200813917, 
+            "activityID": 1231, 
+            "alertFrame": 1545, 
+            "localization": {
+                "VIRAT_S_050000_06_000908_000970.mp4": {
+                    "1545": 0, 
+                    "1520": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.08580976393487719, 
+            "activityID": 1232, 
+            "alertFrame": 927, 
+            "localization": {
+                "VIRAT_S_050000_06_000908_000970.mp4": {
+                    "919": 1, 
+                    "927": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07426304856891788, 
+            "activityID": 1254, 
+            "alertFrame": 352, 
+            "localization": {
+                "VIRAT_S_000201_04_000682_000822.mp4": {
+                    "352": 0, 
+                    "17": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2280734686614716, 
+            "activityID": 1255, 
+            "alertFrame": 365, 
+            "localization": {
+                "VIRAT_S_000201_04_000682_000822.mp4": {
+                    "365": 0, 
+                    "293": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.08488880470395088, 
+            "activityID": 1277, 
+            "alertFrame": 3524, 
+            "localization": {
+                "VIRAT_S_000201_04_000682_000822.mp4": {
+                    "3513": 1, 
+                    "3524": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.36744422237346835, 
+            "activityID": 1292, 
+            "alertFrame": 831, 
+            "localization": {
+                "VIRAT_S_040101_06_001557_001590.mp4": {
+                    "831": 0, 
+                    "721": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3707369049343298, 
+            "activityID": 1293, 
+            "alertFrame": 388, 
+            "localization": {
+                "VIRAT_S_040101_06_001557_001590.mp4": {
+                    "388": 0, 
+                    "230": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.565499261702692, 
+            "activityID": 1294, 
+            "alertFrame": 1030, 
+            "localization": {
+                "VIRAT_S_040103_00_000000_000120.mp4": {
+                    "1030": 0, 
+                    "670": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.01621451868635157, 
+            "activityID": 1295, 
+            "alertFrame": 1030, 
+            "localization": {
+                "VIRAT_S_040103_00_000000_000120.mp4": {
+                    "939": 1, 
+                    "1030": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.25119646110676774, 
+            "activityID": 1300, 
+            "alertFrame": 3274, 
+            "localization": {
+                "VIRAT_S_040103_00_000000_000120.mp4": {
+                    "3274": 0, 
+                    "3124": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.48834533339196984, 
+            "activityID": 1308, 
+            "alertFrame": 2099, 
+            "localization": {
+                "VIRAT_S_040103_00_000000_000120.mp4": {
+                    "2099": 0, 
+                    "1935": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.12580269509267927, 
+            "activityID": 1309, 
+            "alertFrame": 1972, 
+            "localization": {
+                "VIRAT_S_040103_00_000000_000120.mp4": {
+                    "1775": 1, 
+                    "1972": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.3069256422551055, 
+            "activityID": 1313, 
+            "alertFrame": 3785, 
+            "localization": {
+                "VIRAT_S_040103_03_000284_000425.mp4": {
+                    "3785": 0, 
+                    "3767": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.33285013266972135, 
+            "activityID": 1314, 
+            "alertFrame": 3563, 
+            "localization": {
+                "VIRAT_S_040103_03_000284_000425.mp4": {
+                    "3557": 1, 
+                    "3563": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2649857169389725, 
+            "activityID": 1315, 
+            "alertFrame": 2962, 
+            "localization": {
+                "VIRAT_S_040103_03_000284_000425.mp4": {
+                    "2938": 1, 
+                    "2962": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.06767301546300158, 
+            "activityID": 1331, 
+            "alertFrame": 223, 
+            "localization": {
+                "VIRAT_S_050000_09_001310_001373.mp4": {
+                    "223": 0, 
+                    "190": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.0644558494289716, 
+            "activityID": 1348, 
+            "alertFrame": 644, 
+            "localization": {
+                "VIRAT_S_050000_09_001310_001373.mp4": {
+                    "644": 0, 
+                    "636": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.21598746627569199, 
+            "activityID": 1407, 
+            "alertFrame": 1163, 
+            "localization": {
+                "VIRAT_S_050000_09_001310_001373.mp4": {
+                    "1157": 1, 
+                    "1163": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.05781611241400242, 
+            "activityID": 1431, 
+            "alertFrame": 1015, 
+            "localization": {
+                "VIRAT_S_050000_09_001310_001373.mp4": {
+                    "1015": 0, 
+                    "1008": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.24688708502799273, 
+            "activityID": 1437, 
+            "alertFrame": 1166, 
+            "localization": {
+                "VIRAT_S_050000_09_001310_001373.mp4": {
+                    "1166": 0, 
+                    "1159": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4924741592258215, 
+            "activityID": 1470, 
+            "alertFrame": 1056, 
+            "localization": {
+                "VIRAT_S_050000_09_001310_001373.mp4": {
+                    "1025": 1, 
+                    "1056": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.05371490344405174, 
+            "activityID": 1495, 
+            "alertFrame": 2318, 
+            "localization": {
+                "VIRAT_S_040102_04_000596_000689.mp4": {
+                    "2309": 1, 
+                    "2318": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1925386838041819, 
+            "activityID": 1497, 
+            "alertFrame": 2358, 
+            "localization": {
+                "VIRAT_S_040102_04_000596_000689.mp4": {
+                    "2358": 0, 
+                    "2346": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.19184056520462037, 
+            "activityID": 1499, 
+            "alertFrame": 2374, 
+            "localization": {
+                "VIRAT_S_040102_04_000596_000689.mp4": {
+                    "2374": 0, 
+                    "2365": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.22222532051451066, 
+            "activityID": 1500, 
+            "alertFrame": 2584, 
+            "localization": {
+                "VIRAT_S_040102_04_000596_000689.mp4": {
+                    "2584": 0, 
+                    "2500": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.34022568028282235, 
+            "activityID": 1501, 
+            "alertFrame": 1930, 
+            "localization": {
+                "VIRAT_S_040102_04_000596_000689.mp4": {
+                    "1904": 1, 
+                    "1930": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.29131462240669254, 
+            "activityID": 1522, 
+            "alertFrame": 2830, 
+            "localization": {
+                "VIRAT_S_040000_08_001084_001190.mp4": {
+                    "2447": 1, 
+                    "2830": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3086784948334769, 
+            "activityID": 1528, 
+            "alertFrame": 301, 
+            "localization": {
+                "VIRAT_S_000200_00_000100_000171.mp4": {
+                    "301": 0, 
+                    "80": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2279739386421886, 
+            "activityID": 1530, 
+            "alertFrame": 1455, 
+            "localization": {
+                "VIRAT_S_040100_07_001043_001099.mp4": {
+                    "1455": 0, 
+                    "1268": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1184977874555419, 
+            "activityID": 1531, 
+            "alertFrame": 1332, 
+            "localization": {
+                "VIRAT_S_040100_07_001043_001099.mp4": {
+                    "1332": 0, 
+                    "1220": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.08890498537994639, 
+            "activityID": 1534, 
+            "alertFrame": 1919, 
+            "localization": {
+                "VIRAT_S_000200_02_000479_000635.mp4": {
+                    "1919": 0, 
+                    "1841": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3055511745368386, 
+            "activityID": 1535, 
+            "alertFrame": 1965, 
+            "localization": {
+                "VIRAT_S_000200_02_000479_000635.mp4": {
+                    "1965": 0, 
+                    "1784": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.014020262286067009, 
+            "activityID": 1536, 
+            "alertFrame": 2455, 
+            "localization": {
+                "VIRAT_S_000200_02_000479_000635.mp4": {
+                    "2455": 0, 
+                    "2448": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.10324656283077986, 
+            "activityID": 1537, 
+            "alertFrame": 2590, 
+            "localization": {
+                "VIRAT_S_000200_02_000479_000635.mp4": {
+                    "2476": 1, 
+                    "2590": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.20350197106599807, 
+            "activityID": 1548, 
+            "alertFrame": 3636, 
+            "localization": {
+                "VIRAT_S_000200_02_000479_000635.mp4": {
+                    "3636": 0, 
+                    "3602": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2700128069178003, 
+            "activityID": 1549, 
+            "alertFrame": 3642, 
+            "localization": {
+                "VIRAT_S_000200_02_000479_000635.mp4": {
+                    "3582": 1, 
+                    "3642": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.2730538555317455, 
+            "activityID": 1550, 
+            "alertFrame": 4501, 
+            "localization": {
+                "VIRAT_S_000200_02_000479_000635.mp4": {
+                    "4484": 1, 
+                    "4501": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.16352610893192746, 
+            "activityID": 1554, 
+            "alertFrame": 1003, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "1003": 0, 
+                    "962": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.37523198295384647, 
+            "activityID": 1555, 
+            "alertFrame": 352, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "273": 1, 
+                    "352": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.30311452798545363, 
+            "activityID": 1558, 
+            "alertFrame": 4156, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "4156": 0, 
+                    "3957": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.45553714456036687, 
+            "activityID": 1559, 
+            "alertFrame": 3207, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "3207": 0, 
+                    "3080": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.16665627418292894, 
+            "activityID": 1560, 
+            "alertFrame": 6335, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "6335": 0, 
+                    "6246": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.5513604267327874, 
+            "activityID": 1561, 
+            "alertFrame": 5341, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "5341": 0, 
+                    "5207": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4884753759849716, 
+            "activityID": 1562, 
+            "alertFrame": 7689, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "7579": 1, 
+                    "7689": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3859123183349706, 
+            "activityID": 1564, 
+            "alertFrame": 9668, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "9352": 1, 
+                    "9668": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.5056141981096179, 
+            "activityID": 1565, 
+            "alertFrame": 8424, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "8290": 1, 
+                    "8424": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.39634548407047987, 
+            "activityID": 1566, 
+            "alertFrame": 11875, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "11868": 1, 
+                    "11875": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.050705631715910776, 
+            "activityID": 1567, 
+            "alertFrame": 12723, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "12689": 1, 
+                    "12723": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1190452215283416, 
+            "activityID": 1570, 
+            "alertFrame": 14209, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "14209": 0, 
+                    "14167": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.08393623938632978, 
+            "activityID": 1571, 
+            "alertFrame": 14204, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "13835": 1, 
+                    "14204": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18333288017999042, 
+            "activityID": 1572, 
+            "alertFrame": 16764, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "16655": 1, 
+                    "16764": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2557385581067285, 
+            "activityID": 1573, 
+            "alertFrame": 16094, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "16094": 0, 
+                    "15725": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.06360509032101343, 
+            "activityID": 1575, 
+            "alertFrame": 17986, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "17986": 0, 
+                    "17954": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4285779881756753, 
+            "activityID": 1578, 
+            "alertFrame": 18041, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "18041": 0, 
+                    "17946": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.17068451330713605, 
+            "activityID": 1584, 
+            "alertFrame": 21146, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "20572": 1, 
+                    "21146": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.473890285281574, 
+            "activityID": 1585, 
+            "alertFrame": 18932, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "18848": 1, 
+                    "18932": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.20769309639903683, 
+            "activityID": 1590, 
+            "alertFrame": 24524, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "24524": 0, 
+                    "23974": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3640810855257679, 
+            "activityID": 1591, 
+            "alertFrame": 22061, 
+            "localization": {
+                "VIRAT_S_040101_05_000722_001547.mp4": {
+                    "21707": 1, 
+                    "22061": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.10413060008093368, 
+            "activityID": 1594, 
+            "alertFrame": 379, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "379": 0, 
+                    "337": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.21031577326357365, 
+            "activityID": 1595, 
+            "alertFrame": 619, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "619": 0, 
+                    "332": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.3492550835479051, 
+            "activityID": 1596, 
+            "alertFrame": 1810, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "1491": 1, 
+                    "1810": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07791767211868458, 
+            "activityID": 1597, 
+            "alertFrame": 924, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "924": 0, 
+                    "627": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.12709531982739766, 
+            "activityID": 1600, 
+            "alertFrame": 2765, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "2765": 0, 
+                    "2751": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.00800353182213647, 
+            "activityID": 1601, 
+            "alertFrame": 2765, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "2765": 0, 
+                    "2759": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18210723660886288, 
+            "activityID": 1604, 
+            "alertFrame": 4606, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4527": 1, 
+                    "4606": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.0664207298112543, 
+            "activityID": 1605, 
+            "alertFrame": 4606, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4606": 0, 
+                    "4531": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.22322281940202965, 
+            "activityID": 1606, 
+            "alertFrame": 4703, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4666": 1, 
+                    "4703": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.10308509785681963, 
+            "activityID": 1607, 
+            "alertFrame": 4679, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4672": 1, 
+                    "4679": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4911001433327699, 
+            "activityID": 1608, 
+            "alertFrame": 4500, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4344": 1, 
+                    "4500": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.26079697707589244, 
+            "activityID": 1609, 
+            "alertFrame": 3508, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "3225": 1, 
+                    "3508": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1829822906465442, 
+            "activityID": 1610, 
+            "alertFrame": 4754, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4674": 1, 
+                    "4754": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.32875256265203157, 
+            "activityID": 1611, 
+            "alertFrame": 4804, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4804": 0, 
+                    "4625": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.11998420883901417, 
+            "activityID": 1612, 
+            "alertFrame": 4888, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4888": 0, 
+                    "4825": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.3526652146384354, 
+            "activityID": 1613, 
+            "alertFrame": 4907, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "4717": 1, 
+                    "4907": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1587700885720551, 
+            "activityID": 1616, 
+            "alertFrame": 5722, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "5722": 0, 
+                    "5675": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.06255598326203643, 
+            "activityID": 1617, 
+            "alertFrame": 5764, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "5672": 1, 
+                    "5764": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.07826706631617113, 
+            "activityID": 1618, 
+            "alertFrame": 5817, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "5796": 1, 
+                    "5817": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.02888922890027364, 
+            "activityID": 1619, 
+            "alertFrame": 5817, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "5806": 1, 
+                    "5817": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4528686836361885, 
+            "activityID": 1622, 
+            "alertFrame": 7054, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "6895": 1, 
+                    "7054": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.48697667560358154, 
+            "activityID": 1623, 
+            "alertFrame": 5913, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "5740": 1, 
+                    "5913": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.042581089163819946, 
+            "activityID": 1626, 
+            "alertFrame": 7792, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "7643": 1, 
+                    "7792": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.25611048876758546, 
+            "activityID": 1627, 
+            "alertFrame": 7818, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "7818": 0, 
+                    "7323": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.222086327248498, 
+            "activityID": 1628, 
+            "alertFrame": 8555, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "8461": 1, 
+                    "8555": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.20964174514734432, 
+            "activityID": 1629, 
+            "alertFrame": 8259, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "8259": 0, 
+                    "7500": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.07474049553275108, 
+            "activityID": 1630, 
+            "alertFrame": 9043, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "9043": 0, 
+                    "9036": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.0938870906829834, 
+            "activityID": 1632, 
+            "alertFrame": 10401, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "10401": 0, 
+                    "10371": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.18409659932981165, 
+            "activityID": 1633, 
+            "alertFrame": 10619, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "10619": 0, 
+                    "10362": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.07321551150601843, 
+            "activityID": 1635, 
+            "alertFrame": 10804, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "10804": 0, 
+                    "10782": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.020503254607319832, 
+            "activityID": 1637, 
+            "alertFrame": 10842, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "10827": 1, 
+                    "10842": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.050677505029099325, 
+            "activityID": 1638, 
+            "alertFrame": 10963, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "10963": 0, 
+                    "10894": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1396354503231123, 
+            "activityID": 1639, 
+            "alertFrame": 10975, 
+            "localization": {
+                "VIRAT_S_040000_09_001194_001574.mp4": {
+                    "10912": 1, 
+                    "10975": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.33971659156183404, 
+            "activityID": 1657, 
+            "alertFrame": 830, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "819": 1, 
+                    "830": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.11462425305084749, 
+            "activityID": 1663, 
+            "alertFrame": 203, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "203": 0, 
+                    "193": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.19470736553084175, 
+            "activityID": 1691, 
+            "alertFrame": 197, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "197": 0, 
+                    "145": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.31056959501334597, 
+            "activityID": 1709, 
+            "alertFrame": 611, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "605": 1, 
+                    "611": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.12741613961183107, 
+            "activityID": 1721, 
+            "alertFrame": 566, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "554": 1, 
+                    "566": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.020042081804651963, 
+            "activityID": 1726, 
+            "alertFrame": 596, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "578": 1, 
+                    "596": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.07239839181585132, 
+            "activityID": 1727, 
+            "alertFrame": 607, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "555": 1, 
+                    "607": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.05447413715032431, 
+            "activityID": 1738, 
+            "alertFrame": 1077, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "1077": 0, 
+                    "1026": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.04435405927625569, 
+            "activityID": 1739, 
+            "alertFrame": 1103, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "1049": 1, 
+                    "1103": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.324310069779555, 
+            "activityID": 1767, 
+            "alertFrame": 1229, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "1229": 0, 
+                    "1215": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.11625094895264995, 
+            "activityID": 1770, 
+            "alertFrame": 1274, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "1274": 0, 
+                    "1208": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.34944642203695636, 
+            "activityID": 1771, 
+            "alertFrame": 1252, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "1236": 1, 
+                    "1252": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.1485033705830574, 
+            "activityID": 1772, 
+            "alertFrame": 1303, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "1291": 1, 
+                    "1303": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.1131659456425243, 
+            "activityID": 1774, 
+            "alertFrame": 880, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "880": 0, 
+                    "872": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.068360143087127, 
+            "activityID": 1795, 
+            "alertFrame": 943, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "889": 1, 
+                    "943": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.05685225301063978, 
+            "activityID": 1807, 
+            "alertFrame": 1220, 
+            "localization": {
+                "VIRAT_S_050000_11_001530_001576.mp4": {
+                    "1208": 1, 
+                    "1220": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.10663288570940495, 
+            "activityID": 1844, 
+            "alertFrame": 475, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "456": 1, 
+                    "475": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.023387087881565093, 
+            "activityID": 1850, 
+            "alertFrame": 572, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "572": 0, 
+                    "563": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.061553116741142874, 
+            "activityID": 1851, 
+            "alertFrame": 632, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "506": 1, 
+                    "632": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.5733609272427457, 
+            "activityID": 1852, 
+            "alertFrame": 600, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "600": 0, 
+                    "508": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.6417835501646533, 
+            "activityID": 1878, 
+            "alertFrame": 1230, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1128": 1, 
+                    "1230": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.12285826250910759, 
+            "activityID": 1886, 
+            "alertFrame": 1042, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1042": 0, 
+                    "1018": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.2812586072832346, 
+            "activityID": 1887, 
+            "alertFrame": 1271, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1248": 1, 
+                    "1271": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.24864074458577196, 
+            "activityID": 1890, 
+            "alertFrame": 1388, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1291": 1, 
+                    "1388": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.04364701821690514, 
+            "activityID": 1891, 
+            "alertFrame": 1292, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1292": 0, 
+                    "1272": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.16952965957553764, 
+            "activityID": 1892, 
+            "alertFrame": 1436, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1418": 1, 
+                    "1436": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.10198981881141662, 
+            "activityID": 1904, 
+            "alertFrame": 1497, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1473": 1, 
+                    "1497": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.24565185955230226, 
+            "activityID": 1905, 
+            "alertFrame": 1517, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1517": 0, 
+                    "1471": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.05360912006252851, 
+            "activityID": 1907, 
+            "alertFrame": 1652, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1652": 0, 
+                    "1575": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.08255132685105006, 
+            "activityID": 1914, 
+            "alertFrame": 1852, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1838": 1, 
+                    "1852": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.08303375045458476, 
+            "activityID": 1915, 
+            "alertFrame": 1852, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1852": 0, 
+                    "1835": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.014407843351364136, 
+            "activityID": 1916, 
+            "alertFrame": 1867, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1861": 1, 
+                    "1867": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.010479041798548265, 
+            "activityID": 1917, 
+            "alertFrame": 1871, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1861": 1, 
+                    "1871": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.01083444207906723, 
+            "activityID": 1928, 
+            "alertFrame": 2037, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "2037": 0, 
+                    "2028": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.26531133162123816, 
+            "activityID": 1947, 
+            "alertFrame": 2449, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "2443": 1, 
+                    "2449": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4830705707346828, 
+            "activityID": 1974, 
+            "alertFrame": 3433, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "2970": 1, 
+                    "3433": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.05114144513443593, 
+            "activityID": 2008, 
+            "alertFrame": 1740, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1740": 0, 
+                    "1679": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.04126433345178763, 
+            "activityID": 2009, 
+            "alertFrame": 1746, 
+            "localization": {
+                "VIRAT_S_000203_01_000171_000345.mp4": {
+                    "1746": 0, 
+                    "1669": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18459454883375895, 
+            "activityID": 2016, 
+            "alertFrame": 1791, 
+            "localization": {
+                "VIRAT_S_050000_08_001235_001295.mp4": {
+                    "1700": 1, 
+                    "1791": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.13662983121780248, 
+            "activityID": 2017, 
+            "alertFrame": 1419, 
+            "localization": {
+                "VIRAT_S_050000_08_001235_001295.mp4": {
+                    "1419": 0, 
+                    "1355": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.4576942138373852, 
+            "activityID": 2023, 
+            "alertFrame": 1347, 
+            "localization": {
+                "VIRAT_S_050000_08_001235_001295.mp4": {
+                    "1340": 1, 
+                    "1347": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.18301177046392575, 
+            "activityID": 2024, 
+            "alertFrame": 1775, 
+            "localization": {
+                "VIRAT_S_050000_08_001235_001295.mp4": {
+                    "1775": 0, 
+                    "1413": 1
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.08882847345537609, 
+            "activityID": 2025, 
+            "alertFrame": 1497, 
+            "localization": {
+                "VIRAT_S_050000_08_001235_001295.mp4": {
+                    "1489": 1, 
+                    "1497": 0
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }, 
+        {
+            "presenceConf": 0.2666378853221734, 
+            "activityID": 2040, 
+            "alertFrame": 2063, 
+            "localization": {
+                "VIRAT_S_040103_02_000199_000279.mp4": {
+                    "2016": 1, 
+                    "2063": 0
+                }
+            }, 
+            "activity": "vehicle_turning_right"
+        }, 
+        {
+            "presenceConf": 0.23143052127900846, 
+            "activityID": 2049, 
+            "alertFrame": 720, 
+            "localization": {
+                "VIRAT_S_040000_00_000000_000036.mp4": {
+                    "720": 0, 
+                    "299": 1
+                }
+            }, 
+            "activity": "vehicle_turning_left"
+        }
+    ], 
+    "filesProcessed": [
+        "VIRAT_S_000207_02_000498_000530.mp4", 
+        "VIRAT_S_000204_07_001577_001611.mp4", 
+        "VIRAT_S_000201_01_000384_000589.mp4", 
+        "VIRAT_S_000206_08_001618_001712.mp4", 
+        "VIRAT_S_000206_02_000294_000327.mp4", 
+        "VIRAT_S_000206_00_000025_000058.mp4", 
+        "VIRAT_S_040100_06_000767_000988.mp4", 
+        "VIRAT_S_040102_07_000916_000983.mp4", 
+        "VIRAT_S_000205_02_000409_000566.mp4", 
+        "VIRAT_S_040005_08_001225_001276.mp4", 
+        "VIRAT_S_040104_07_001268_001348.mp4", 
+        "VIRAT_S_040103_06_000836_000909.mp4", 
+        "VIRAT_S_040100_08_001103_001181.mp4", 
+        "VIRAT_S_000204_09_001768_001849.mp4", 
+        "VIRAT_S_040100_09_001186_001533.mp4", 
+        "VIRAT_S_040003_02_000197_000552.mp4", 
+        "VIRAT_S_000203_08_001702_001734.mp4", 
+        "VIRAT_S_000007.mp4", 
+        "VIRAT_S_040100_03_000496_000559.mp4", 
+        "VIRAT_S_040000_01_000042_000099.mp4", 
+        "VIRAT_S_040100_05_000696_000762.mp4", 
+        "VIRAT_S_040005_06_000886_001016.mp4", 
+        "VIRAT_S_000008.mp4", 
+        "VIRAT_S_040000_04_000532_000622.mp4", 
+        "VIRAT_S_040100_04_000626_000689.mp4", 
+        "VIRAT_S_000206_01_000148_000184.mp4", 
+        "VIRAT_S_040003_01_000083_000193.mp4", 
+        "VIRAT_S_000201_00_000018_000380.mp4", 
+        "VIRAT_S_040003_00_000000_000072.mp4", 
+        "VIRAT_S_000205_05_001092_001124.mp4", 
+        "VIRAT_S_000205_03_000860_000922.mp4", 
+        "VIRAT_S_000205_06_001566_001631.mp4", 
+        "VIRAT_S_040103_01_000132_000195.mp4", 
+        "VIRAT_S_000201_02_000590_000623.mp4", 
+        "VIRAT_S_040102_06_000849_000908.mp4", 
+        "VIRAT_S_050000_06_000908_000970.mp4", 
+        "VIRAT_S_000201_04_000682_000822.mp4", 
+        "VIRAT_S_040101_06_001557_001590.mp4", 
+        "VIRAT_S_040103_00_000000_000120.mp4", 
+        "VIRAT_S_040103_03_000284_000425.mp4", 
+        "VIRAT_S_050000_09_001310_001373.mp4", 
+        "VIRAT_S_040102_04_000596_000689.mp4", 
+        "VIRAT_S_040000_08_001084_001190.mp4", 
+        "VIRAT_S_000200_00_000100_000171.mp4", 
+        "VIRAT_S_040100_07_001043_001099.mp4", 
+        "VIRAT_S_000200_02_000479_000635.mp4", 
+        "VIRAT_S_040101_05_000722_001547.mp4", 
+        "VIRAT_S_040000_09_001194_001574.mp4", 
+        "VIRAT_S_050000_11_001530_001576.mp4", 
+        "VIRAT_S_000203_01_000171_000345.mp4", 
+        "VIRAT_S_050000_08_001235_001295.mp4", 
+        "VIRAT_S_040103_02_000199_000279.mp4", 
+        "VIRAT_S_040000_00_000000_000036.mp4", 
+        "VIRAT_S_000207_03_000556_000590.mp4"
+    ]
+}
